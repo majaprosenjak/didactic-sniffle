@@ -48,6 +48,11 @@
 			<version>2.0.2</version>
 		</dependency>
 
+		<properties>
+			<sonar.organization>majaprosenjak</sonar.organization>
+			<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		</properties>
+
 	</dependencies>
 
 	<build>

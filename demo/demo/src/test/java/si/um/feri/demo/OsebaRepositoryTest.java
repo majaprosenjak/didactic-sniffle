@@ -23,7 +23,7 @@ public class OsebaRepositoryTest {
     void BeforeEach(){
         //dao.deleteAll();
         //oseba = dao.save(new Oseba("TestnoIme", "TestniPriimek", "TestniEmail"));
-        Oseba testnOseba = new Oseba("TestnoIme", "TestniPriimek", "TestniEmail");
+        //Oseba testnOseba = new Oseba("TestnoIme", "TestniPriimek", "TestniEmail");
 
     }
 
