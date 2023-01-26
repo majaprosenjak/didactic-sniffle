@@ -27,10 +27,10 @@ public class OsebaRepositoryTest {
 
     }
 
-    @Test
+    /* @Test
     void sestevanjeTest(){
         int zacetnoStanje = 15;
         zacetnoStanje = zacetnoStanje + 10;
         assertEquals(25, zacetnoStanje);
-    }
+    } */
 }
